@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **toaamahmoud98@gmail.com**
 
-- ⚡ Fact about me **Ambitious Person ✨**
+- ⚡ Fact about me **✨Ambitious Person✨**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
