@@ -12,10 +12,11 @@
 
 ## 💭 About Me:
 <ul>
-  <li>👩🏽‍💻 I'm a senior at the Faculty of Computers and Informatics at Suez Canal University.</li>
-  <li>🌱 I'm interested in Software Engineering.</li>
-  <li>💻 I'm a Back-end Developer (Node.js).</li>
-  <li>📫 How to reach me: <a href="mailto:toaamahmoud98@gmail.com">toaamahmoud98@gmail.com</a></li>
+  <li>🎓 Graduate of the Faculty of Computers and Informatics, Suez Canal University.</li>
+  <li>💼 Currently a trainee at the Information Technology Institute (ITI) – 9-Month Professional Program.</li>
+  <li>💻 Focused on Back-End Development using Node.js.</li>
+  <li>🌱 Interested in Software Engineering and System Design.</li>
+  <li>📫 Contact: <a href="mailto:toaamahmoud98@gmail.com">toaamahmoud98@gmail.com</a></li>
 </ul>
 <br />
 <hr />
